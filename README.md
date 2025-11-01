@@ -10,7 +10,8 @@
 
 ### ⚙️ Hyper Analytics
 تحليل بيانات المنتجات والتعويض بالوسيط والمتوسط 
-
+### Regions detalis and sales
+تحليل بيانات مناطق وتم عمل cleaning data والتعويص ب mean في Null countوعمل استخراجات للشهر والسنه وعمل averge ل revenue
 ## 🛠️ Technologies Used
 - Python, Jupyter Notebook
 - Pandas, NumPy
